@@ -98,11 +98,11 @@
 						"Arn"
 					]
 				},
-				"Runtime": "nodejs8.10",
+				"Runtime": "nodejs10.x",
 				"Timeout": "25",
 				"Code": {
-					"S3Bucket": "amplify-jamstack-cms-dev-160039-deployment",
-					"S3Key": "amplify-builds/jamstackcmsc9ee2ce6PostConfirmation-42497344787058563938-build.zip"
+					"S3Bucket": "amplify-jamstack-cms-dev-115331-deployment",
+					"S3Key": "amplify-builds/jamstackcmsc9ee2ce6PostConfirmation-376a726d4e5469424c42-build.zip"
 				}
 			}
 		},
