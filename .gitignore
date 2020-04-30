@@ -59,7 +59,7 @@ typings/
 public
 
 # jamstack
-jamstack-api-key.js
+# jamstack-api-key.js
 
 # Mac files
 .DS_Store
